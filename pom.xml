@@ -72,8 +72,7 @@
                             <goal>deploy</goal>
                         </goals>
                     </execution>
-            </executions>
-                  
+            </executions>    
  <configuration>
 <force>true</force>
 <hostname>127.0.0.1</hostname>
@@ -81,17 +80,6 @@
 <username>admin</username>
 <password>admin</password>
 <timeout>50000</timeout>
-   <domain>
-<!-- This configuration is need only if you running JBoss in domain mode -->
-<server-groups>
-<server-group>main-server-group</server-group>
-...
-</server-groups>
-...
-</domain>
-...
-</configuration>
-            </plugin>
 </configuration>
 </plugin>
       </plugins>
