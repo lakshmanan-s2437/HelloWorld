@@ -67,7 +67,7 @@
                 <version>7.3.Final</version>
 
                     <configuration>
-                      <hostname>localhost</hostname>
+                      <hostname>127.0.0.1</hostname>
                       <port>9990</port>
 
                       <name>vijayvj</name>
