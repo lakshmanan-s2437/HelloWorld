@@ -79,7 +79,7 @@
         <username>vijay</username>
         <password>vijay</password>
         <port>9999</port>
-                        <configuration> 
+                        </configuration> 
                     </execution>
                 </executions>
             </plugin>
