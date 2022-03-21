@@ -73,9 +73,10 @@
                         <goals>
                             <goal>deploy</goal>
                         </goals>
+                      <!-- FIXME change it to the project's website 
                         <configuration>
-                            <deployEnabled>false</deployEnabled>
-                        <configuration>
+                           # <deployEnabled>false</deployEnabled>
+                        <configuration> -->
                     </execution>
                 </executions>
             </plugin>
