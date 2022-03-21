@@ -73,10 +73,13 @@
                         <goals>
                             <goal>deploy</goal>
                         </goals>
-                      <!-- FIXME change it to the project's website 
+                     
                         <configuration>
-                           # <deployEnabled>false</deployEnabled>
-                        <configuration> -->
+                           <hostname>localhost</hostname>
+        <username>vijay</username>
+        <password>vijay</password>
+        <port>9999</port>
+                        <configuration> 
                     </execution>
                 </executions>
             </plugin>
