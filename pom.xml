@@ -76,8 +76,8 @@
                      
                         <configuration>
                            <hostname>localhost</hostname>
-        <username>vijay</username>
-        <password>vijay</password>
+        <username>hulk</username>
+        <password>karan</password>
         <port>9999</port>
                         </configuration> 
                     </execution>
