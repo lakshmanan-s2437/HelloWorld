@@ -78,7 +78,7 @@
                            <hostname>localhost</hostname>
         <username>laksh</username>
         <password>laksh</password>
-        <port>9999</port>
+        <port>9990</port>
                         </configuration> 
                     </execution>
                 </executions>
